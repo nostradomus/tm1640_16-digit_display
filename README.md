@@ -1,5 +1,7 @@
 # tm1640 - 16-Digit Display Module
 
+![display example](images/1234-example.png)
+
 ## What
 
 This repository contains the schematic, a pcb design, plexi housing drawings and a code example, to build and program a 16-digit display module, based on the tm1640 multiplexer chip.
