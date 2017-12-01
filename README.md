@@ -6,7 +6,7 @@ This repository contains the schematic, a pcb design, plexi housing drawings and
 
 ## Why
 
-In a recent project, I used such a 16-digit 7-segment display module which I had lying around. At the end of the project, it turned out that the module was not commercially available anymore.
+In a recent project, I used such a 16-digit 7-segment display module which I had lying around. At the end of the project, it turned out that the module was commercially not available anymore.
 
 As all the required components can still easily be sourced, I decided to redesign a pcb in order for all interested people to be RYO.
 
