@@ -78,7 +78,7 @@ When you create your own version, don't forget to send us some nice pictures of 
 
 ## :globe_with_meridians: License
 
-At this moment, there is no specific license attached to this project yet.
+At this moment, there is no specific license attached to this project.
 
 So, today, if you like it, have fun with it (at your own risk of course :-D), and especially, be creative.
 
