@@ -1,4 +1,5 @@
 # tm1640 - 16-Digit Display Module
+![](https://img.shields.io/badge/project%20status-under%20construction-lightgrey.svg)
 
 ![display example](images/1234-example.png)
 
